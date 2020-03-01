@@ -2,5 +2,6 @@
 
 \header {
   title = "Klezmer 26"
+  composer = "Mula Saevitch"
 }
 \include "deutsch.ly"
