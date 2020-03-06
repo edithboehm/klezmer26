@@ -19,7 +19,7 @@ mainchords = \chordmode {
 		}
 
 		\repeat volta 2{
-			f1 b:m f b:m f b:m f b:m
+			f2 b:m f b:m f b:m f b:m
 		}
 
 		%\bar "|."
