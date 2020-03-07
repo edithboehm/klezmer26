@@ -1,5 +1,6 @@
 \include "header.ly"
 \include "chords.ly"
+\include "melody.ly"
 
 #(set-accidental-style 'modern-cautionary)
 
@@ -10,8 +11,7 @@
 		}
 		\transpose f a {
 			\new Staff {
-				\key b \minor
-				\mainchords
+				\melody
 			}
 		}
 	>>
