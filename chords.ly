@@ -6,7 +6,7 @@ mainchords = \chordmode {
 		\set noChordSymbol = ""
 
 		\repeat volta 2{
-			b1:m b:m es:m es:m as:7 as:7 des f2 f:7
+			b1:m b:m es:m es:m as as:7 des f2 f:7
 			b1:m b:m es:m es:m f f:7
 		}
 		\alternative {
@@ -15,7 +15,7 @@ mainchords = \chordmode {
 		}
 
 		\repeat volta 2 {
-			as1 as des des f f:7
+			es1:m as des b:m f f:7
 		}
 		\alternative{
 			{ b:m b:7 }
