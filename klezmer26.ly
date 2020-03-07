@@ -14,5 +14,13 @@
 				\melody
 			}
 		}
+		\new Staff \with {
+			instrumentName = \markup { "Klar." \concat{ B \teeny \raise #0.4 \flat }}
+		}\transpose b c' {
+			\clef violin
+			\transpose f a {
+				\melody
+			}
+		}
 	>>
 
