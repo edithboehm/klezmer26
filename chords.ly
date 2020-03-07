@@ -10,7 +10,7 @@ mainchords = \chordmode {
 			b1:m b:m es:m es:m f f:7
 		}
 		\alternative {
-			{b1:m b:m}
+			{b1:m r}
 			{b1:m b:m}
 		}
 
