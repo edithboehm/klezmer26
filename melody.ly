@@ -25,7 +25,7 @@ melody =
 		}
 		\repeat volta 2{
 			f'4 f f,2 des'8 c b a b2
-			f'4 f f,2 b8 as b c des2
+			f'4 f f,2 b8 a b c des2
 
 			f4 f f,2 des'8 c b a b2
 			f'4 f f,2 des'8 b c a b2
